@@ -7,7 +7,7 @@ gem 'wrong'
 
 gem 'rake'
 
-gem 'racc'
+gem 'racc', '1.4.9'
 
 # don't try to install redcarpet under jruby
 gem 'redcarpet', :platforms => :ruby
